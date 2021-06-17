@@ -2,6 +2,6 @@
 💌 How about knowing a little about me
 
 - 🔨 Main project [Brainly Brasil](https://discord.com/invite/brainly)
+
+# Social Networks <img src="https://image.flaticon.com/icons/png/512/4220/4220219.png" width="28px" alt="social">
 - 🍃 How to talk to me Xiaomi#0001
-[
-![Discord Badge](https://image.flaticon.com/icons/png/512/906/906361.png)
