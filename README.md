@@ -9,4 +9,4 @@
 
 # Technologies
 
-[![HTML Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Js](https://image.flaticon.com/icons/png/512/2305/2305963.png)](#)
