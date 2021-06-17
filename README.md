@@ -2,4 +2,4 @@
 💌 How about knowing a little about me
 
 - 🔨 Main project [Brainly Brasil](https://discord.com/invite/brainly)
-- 🍃 How to talk to me ![Xiaomi#0001](https://image.flaticon.com/icons/png/512/906/906361.png width="28px")
+- 🍃 How to talk to me ![Xiaomi#0001]("https://image.flaticon.com/icons/png/512/906/906361.png" width="350" title="hover text")
