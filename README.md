@@ -5,7 +5,7 @@
 
 # Social Networks <img src="https://image.flaticon.com/icons/png/512/4220/4220219.png" width="28px" alt="social">
 - 🍃 Discord : Xiaomi#0001
-- 📧 Email : (mailto:gabrieloliveirabrx@gmail.com)
+- 📧 Email : [gabrieloliveirabrx@gmail.com](mailto:gabrieloliveirabrx@gmail.com)
 
 # Technologies
 
