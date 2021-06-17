@@ -4,4 +4,9 @@
 - 🔨 Main project [Brainly Brasil](https://discord.com/invite/brainly)
 
 # Social Networks <img src="https://image.flaticon.com/icons/png/512/4220/4220219.png" width="28px" alt="social">
-- 🍃 How to talk to me Xiaomi#0001
+- 🍃 Discord : Xiaomi#0001
+- 📧 Email : (mailto:gabrieloliveirabrx@gmail.com)
+
+# Technologies
+
+- (#)[![Js](https://img-premium.flaticon.com/png/512/3344/premium/3344325.png?token=exp=1623939136~hmac=f950b9d4aa210fba47abc777930459a8)]
