@@ -2,4 +2,4 @@
 💌 How about knowing a little about me
 
 - 🔨 Main project [Brainly Brasil](https://discord.com/invite/brainly)
-- 🍃 How to talk to me ![Xiaomi#0001]
+- 🍃 How to talk to me Xiaomi#0001
