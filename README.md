@@ -9,4 +9,4 @@
 
 # Technologies
 
-[![Js](https://image.flaticon.com/icons/png/512/2305/2305963.png)](#)
+[![Javascript Badge](https://badges.aleen42.com/src/javascript.svg)](#)
