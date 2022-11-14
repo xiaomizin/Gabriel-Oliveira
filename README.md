@@ -5,7 +5,7 @@
 - 📧 Email : contato@brainlybrasil.com
 
 
-# Social Networks <img src="https://image.flaticon.com/icons/png/512/4220/4220219.png" width="28px" alt="social">
+# Social Networks <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28px" alt="social">
 - 🍃 Discord : Xiaomi#0001
 - 📧 Email : gabrieloliveirabrx@gmail.com
 
