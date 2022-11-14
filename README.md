@@ -9,6 +9,6 @@
 - 🍃 Discord : Xiaomi#0001
 - 📧 Email : gabrieloliveirabrx@gmail.com
 
-# Technologies.
+# Technologies
 
 [![Javascript Badge](https://badges.aleen42.com/src/javascript.svg)](#)
